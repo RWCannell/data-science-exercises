@@ -1,0 +1,196 @@
+,Location,Rate
+1,Afghanistan *,6.7
+2,Albania *,2.1
+3,Algeria,1.3
+4,Andorra,2.6
+5,Angola,4.8
+6,Anguilla,28.3
+7,Antigua and Barbuda,9.2
+8,Argentina *,5.3
+9,Armenia *,1.8
+10,Aruba,1.9
+11,Australia *,0.9
+12,Austria *,0.7
+13,Azerbaijan *,2.3
+14,Bahamas,18.6
+15,Bahrain *,0.1
+16,Bangladesh *,2.4
+17,Barbados,14.3
+18,Belarus,2.4
+19,Belgium *,1.7
+20,Belize *,25.7
+21,Benin *,1.1
+22,Bermuda,0.0
+23,Bhutan *,2.5
+24,Bolivia *,7.0
+25,Bosnia and Herzegovina,1.3
+26,Botswana,15.2
+27,Brazil *,22.5
+28,British Virgin Islands,8.3
+29,Brunei,0.5
+30,Bulgaria *,1.0
+31,Burkina Faso,1.3
+32,Burundi,6.1
+33,Cape Verde *,6.5
+34,Cambodia *,1.8
+35,Cameroon,1.4
+36,Canada *,2.0
+37,Cayman Islands,8.2
+38,Central African Republic,20.1
+39,Channel Islands,0.0
+40,Chile *,4.8
+41,China *,0.5
+42,Colombia *,22.6
+43,Costa Rica *,11.2
+44,Croatia,1.0
+45,Cuba *,5.0
+46,Curaçao,19.0
+47,Cyprus,1.2
+48,Czech Republic *,0.7
+49,Denmark *,1.0
+50,Dominica,20.8
+51,Dominican Republic *,8.9
+52,Ecuador *,7.8
+53,Egypt *,2.6
+54,El Salvador *,37.2
+55,England and Wales *,1.2
+56,Estonia *,3.2
+57,Eswatini,11.6
+58,Ethiopia *,8.8
+59,Finland *,1.6
+60,France *,1.3
+61,French Guiana,13.2
+62,Georgia,1.9
+63,Germany *,0.8
+64,Ghana *,2.1
+65,Gibraltar *,3.0
+66,Greece *,0.8
+67,Greenland *,5.3
+68,Grenada,12.4
+69,Guadeloupe *,5.8
+70,Guatemala *,17.5
+71,Guinea-Bissau,1.1
+72,Guyana *,20.0
+73,Haiti *,6.7
+74,Holy See,0.0
+75,Honduras *,36.3
+76,Hong Kong *,0.3
+77,Hungary *,0.8
+78,Iceland,1.5
+79,India *,3.0
+80,Indonesia *,0.4
+81,Iran *,2.2
+82,Iraq,10.1
+83,Iraq (excluding Kurdistan),10.1
+84,Ireland,0.7
+85,Isle of Man,0.0
+86,Israel *,1.5
+87,Italy *,0.5
+88,Jamaica *,44.7
+89,Japan *,0.3
+90,Jordan,1.0
+91,Kazakhstan *,3.2
+92,Kenya *,4.0
+93,Kosovo *,2.4
+94,Kurdistan Region (Iraq),2.2
+95,Kuwait *,1.8
+96,Kyrgyzstan,1.7
+97,Latvia *,2.6
+98,Lebanon,1.9
+99,Lesotho *,43.6
+100,Liberia *,3.3
+101,Liechtenstein,2.6
+102,Lithuania,3.7
+103,Luxembourg,0.2
+104,Macau *,0.3
+105,Malawi,1.8
+106,Malaysia *,2.1
+107,Maldives *,0.6
+108,Malta,1.6
+109,Martinique,2.8
+110,Mauritius *,2.8
+111,Mayotte,5.9
+112,Mexico *,28.4
+113,Monaco,0.0
+114,Mongolia,6.0
+115,Montenegro *,2.9
+116,Montserrat,20.3
+117,Morocco,1.3
+118,Mozambique,3.5
+119,Myanmar *,28.4
+120,Namibia *,11.9
+121,Nepal *,2.3
+122,Netherlands,0.6
+123,New Zealand *,2.6
+124,Nicaragua,7.9
+125,Niger,4.4
+126,Nigeria *,22.0
+127,Northern Ireland *,1.2
+128,Norway *,0.6
+129,Oman *,0.3
+130,Pakistan *,3.8
+131,Panama *,11.1
+132,Paraguay *,6.7
+133,Peru *,7.7
+134,Philippines *,4.4
+135,Poland *,0.7
+136,Portugal *,0.9
+137,Puerto Rico *,18.5
+138,Qatar *,0.4
+139,South Korea *,0.6
+140,Moldova *,2.3
+141,North Macedonia,1.2
+142,Réunion,1.8
+143,Romania *,1.5
+144,Russia *,6.8
+145,Rwanda,2.6
+146,Saint Helena,0.0
+147,Saint Kitts and Nevis *,18.8
+148,Saint Lucia *,28.3
+149,Saint Martin (French part),27.7
+150,Saint Pierre and Miquelon,15.8
+151,Saint Vincent and the Grenadines,17.2
+152,San Marino,0.0
+153,São Tomé and Príncipe,3.3
+154,Saudi Arabia *,0.8
+155,Scotland *,1.1
+156,Senegal,0.3
+157,Serbia *,1.0
+158,Seychelles,10.2
+159,Sierra Leone,1.7
+160,Singapore *,0.2
+161,Slovakia *,1.2
+162,Slovenia *,0.5
+163,South Africa *,33.5
+164,South Sudan,14.9
+165,Spain *,0.6
+166,Sri Lanka *,3.5
+167,Palestine *,1.0
+168,Sudan,5.1
+169,Suriname *,9.4
+170,Sweden *,1.1
+171,Switzerland *,0.5
+172,Syria,0.9
+173,Taiwan *,0.8
+174,Tajikistan,0.9
+175,Thailand *,2.6
+176,East Timor,4.1
+177,Trinidad and Tobago *,38.6
+178,Tunisia,4.8
+179,Turkey *,2.5
+180,Turkmenistan,4.2
+181,Turks and Caicos Islands,5.7
+182,Uganda,9.7
+183,Ukraine *,6.2
+184,United Arab Emirates *,0.7
+185,United Kingdom *,1.1
+186,Tanzania,6.5
+187,United States *,6.4
+188,U.S. Virgin Islands,49.3
+189,Uruguay,9.7
+190,Uzbekistan,1.2
+191,Venezuela *,36.7
+192,Vietnam *,1.5
+193,Yemen *,6.8
+194,Zambia,5.4
+195,Zimbabwe *,7.5
