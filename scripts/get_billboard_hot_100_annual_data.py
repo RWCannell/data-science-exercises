@@ -70,7 +70,6 @@ years = [
 # filtering the rows where 'date' contains the year
 for year in years:
     billboard_hot_100_df = df[df['date'].str.contains(year)]
-    print(billboard_hot_100_df)
     csv_name = 'billboard_hot_100_' + year + '_data.csv'
     # billboard_hot_100_df.to_csv(csv_name)
 
