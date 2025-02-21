@@ -4,11 +4,16 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-titanic_df = pd.read_csv('csv/titanic.csv')
+df = pd.read_csv('csv/titanic.csv')
 
 # Display the first 5 rows of the dataset
+df_first_five_rows = df.head()
+print(f"First 5 rows of the dataset:\n {df_first_five_rows}")
+
+# Drop 'Cabin' column, since values are missing in CSV file
+titanic_df = df.drop(['Cabin'], axis=1)
 titanic_df_first_five_rows = titanic_df.head()
-print(f"First 5 rows of the dataset:\n {titanic_df_first_five_rows}")
+print(f"First 5 rows of the dataset without 'Cabin' column:\n {titanic_df_first_five_rows}")
 
 # Return the number of rows and columns in the dataset
 rows, columns = titanic_df.shape
