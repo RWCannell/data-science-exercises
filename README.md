@@ -2,7 +2,17 @@
 This repository contains many csv files, Python scripts, and Python functions that have been created in order to explore the field of Data Science and Statistics.
 
 ## CSV Files
-The `billboard_hot_100_all_years.csv` file was taken from [Kaggle](https://www.kaggle.com/datasets/dhruvildave/billboard-the-hot-100-songs). This is a very large file. I created a simple script called `get_billboard_hot_100_annual_data.py` which extracts data from the aforementioned csv file and saves it into individual csv files according to the year.
+The `billboard_hot_100_all_years.csv` file was taken from [Kaggle](https://www.kaggle.com/datasets/dhruvildave/billboard-the-hot-100-songs). This is a very large file. I created a simple script called `get_billboard_hot_100_annual_data.py` which extracts data from the aforementioned csv file and saves it into individual csv files according to the year.   
+
+## Surviving Titanic
+We'll use the dataset from the [titanic.csv file](csv/titanic.csv) that was taken from [Kaggle](https://www.kaggle.com/datasets/brendan45774/test-file/data). Our goal is to explore the data and to build a machine learning model that will be able to predict if a given user would have survived if they were aboard the Titanic in 1912. It would be convenient to use a Jupyter Notebook, but we'll start by using plain Python scripts inside a virtual environment. To create a virtual environment, we run:
+```bash
+python3 -m venv surviving_titanic/venv
+```
+To spin up the virtual environment, we run
+```bash
+source surviving_titanic/venv/bin/activate
+```
 
 ## Predicting Hiring Decisions in Recruitment Data   
 The recruitment data can be found as a CSV file over [here](./predicting_hiring_decisions_in_recruitment_data/recruitment_data.csv). This data set was taken from Kaggle. The data in its raw form provides insights into factors influencing hiring decisions. Each record represents a candidate with various attributes considered during the hiring process. The goal is to predict whether a candidate will be hired based on these attributes:   
