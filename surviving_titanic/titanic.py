@@ -56,8 +56,8 @@ print(f"Survived-Pclass Pivot Table:\n {survived_pclass_pivot_table}")
 
 # Pivot table for Survived and Sex
 survived_sex_pivot_table = pd.pivot_table(titanic_df, index='Survived', columns='Sex', values='Ticket', aggfunc='count')
-print(f"Survived-Pclass Pivot Table:\n {survived_sex_pivot_table}")
+print(f"Survived-Sex Pivot Table:\n {survived_sex_pivot_table}")
 
 # Pivot table for Survived and Embarked
 survived_embarked_pivot_table = pd.pivot_table(titanic_df, index='Survived', columns='Embarked', values='Ticket', aggfunc='count')
-print(f"Survived-Pclass Pivot Table:\n {survived_embarked_pivot_table}")
+print(f"Survived-Embarked Pivot Table:\n {survived_embarked_pivot_table}")
